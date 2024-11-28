@@ -3,7 +3,6 @@
  *								    									     *
  *					MEMBROS DO GRUPO:										     *
  *			Adriel Martins de Souza 		RA:	1140482422019							     *
- *			Any Caroline Bezerra 			RA: 	1140482422024							     *
  *			João Vitor Cavalcante Barros 		RA: 	1140482422035							     *
  *			Vinícius Gabriel Dias Batista 		RA:	1140482422009 							     *
  *								    									     *
